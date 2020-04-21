@@ -29,3 +29,7 @@ d.	Press Train!
 
 A link to a video of my tutorial: 
 https://youtu.be/_sGJ9lc2o04
+
+
+#Conclusion
+Based on the research done by my partner and I, it seems as though GCP Vision platform is better, both in that the API is more accurate and verbose but also in the simplicity of creating a custom Vision ML model. Even though GCP has it's own down sides I believe it is a much better option over the Microsoft Vision option.
